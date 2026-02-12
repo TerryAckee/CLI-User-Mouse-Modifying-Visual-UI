@@ -1,5 +1,5 @@
 
-# User-CLI-UIX-UX-Visual-Enhancement
+# User-CLI-UIX-UX-Mouse-Visual-Enhancement
 [🚀 View Live Demo](https://terryackee.github.io/User-CLI-UIX-UX-Visual-Enhancement/)
 
 ---
