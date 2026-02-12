@@ -57,11 +57,6 @@ html, body {
         const toggleBtn = document.getElementById('cursor-toggle');
         let isEnhanced = false;
 
-toggleBtn.addEventListener('click', () => {
-    // This only hides/shows your PNG, 
-    // the system cursor remains hidden by the CSS above
-    customCursor.classList.toggle('hidden'); 
-});
 
 
         document.addEventListener('mousemove', (e) => {
@@ -74,6 +69,8 @@ toggleBtn.addEventListener('click', () => {
         toggleBtn.addEventListener('click', () => {
             isEnhanced = !isEnhanced;
             if (isEnhanced) {
+
+
                 cursor.classList.add('cursor-active');
                 document.body.style.cursor = 'none';
                 toggleBtn.innerText = "Switch to System Cursor (Standard)";
