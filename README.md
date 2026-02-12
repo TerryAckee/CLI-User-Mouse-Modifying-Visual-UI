@@ -1,1 +1,1 @@
-update readme with project vision
+docs:update readme with project vision
