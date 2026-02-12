@@ -5,6 +5,18 @@
     <title>Interaction Design Demo</title>
     
     <style>
+           /* This hides the system's white arrow/pointer */
+html, body {
+  cursor: none;
+}
+
+/* This ensures your custom cursor image stays visible */
+#custom-cursor {
+  position: fixed;
+  pointer-events: none; /* Allows you to click through the image to buttons below */
+  z-index: 9999;
+  /* Make sure cursor is NOT set to none here */
+}
         /* YOUR CSS GOES HERE */
         #custom-cursor {
             position: fixed;
@@ -44,6 +56,13 @@
         const cursor = document.getElementById('custom-cursor');
         const toggleBtn = document.getElementById('cursor-toggle');
         let isEnhanced = false;
+
+toggleBtn.addEventListener('click', () => {
+    // This only hides/shows your PNG, 
+    // the system cursor remains hidden by the CSS above
+    customCursor.classList.toggle('hidden'); 
+});
+
 
         document.addEventListener('mousemove', (e) => {
             if (isEnhanced) {
