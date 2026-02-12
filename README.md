@@ -1,7 +1,7 @@
 
 <<<<<<< HEAD
 # User-CLI-UIX-UX-Mouse-Visual-Enhancement
-[🚀 View Live Demo](https://terryackee.github.io/User-CLI-UIX-UX-Visual-Enhancement/)
+
 =======
 # User-CLI-UIX-UX-Visual-Enhancement
 I’ve implemented a custom cursor as a demonstration of my ability to manipulate the DOM and handle real-time input tracking. To ensure a professional experience, it is optimized for high-refresh-rate displays and respects the system's prefers-reduced-motion settings.
@@ -9,7 +9,7 @@ I’ve implemented a custom cursor as a demonstration of my ability to manipulat
 **A mindful exploration of custom cursor states and accessibility-first UI.**
 
 [🚀 View Live Demo](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
->>>>>>> 9b38fb9 (Updated both files)
+
 
 ---
 ![Triston_Delicema_UI_CLI_Interactive_Cursor](https://github.com/user-attachments/assets/70a6ef34-a9c1-4d91-862a-2c553eb424fe)
