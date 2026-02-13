@@ -1,7 +1,7 @@
 
 
  [ClickHereToTryInBrowser](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
-# User-CLI-UIX-UX-Mouse-Visual-Enhancement  
+# User-CLI-UIX-UX-Mouse-Visual-Modifier
 
             
                           
