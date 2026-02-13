@@ -1,4 +1,5 @@
-[Click here to access the Cursor Toggle settings](./path/to/your/page.md)
+[🚀 View Live Demo](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
+
 
 ![Triston_Visual_Flavor_UI_Mod](https://github.com/user-attachments/assets/e0acc8d3-bb97-4476-b00e-5117346e9356)
 
