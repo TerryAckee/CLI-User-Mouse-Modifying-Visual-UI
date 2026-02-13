@@ -1,7 +1,7 @@
 [ Click here to try in your Broswer no download ](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
 
 Displaying Gif recording of me accessing the toggle button asset in my browser first to display the provided service is a secure safe no download required user experience! 
-
+## Check the Detailed video below this one explanaing why this is a safe procedure and how it works securely wihout accessing your info or data at all!
 ![Triston_Visual_Flavor_UI_Mod](https://github.com/user-attachments/assets/e0acc8d3-bb97-4476-b00e-5117346e9356)
 
 
